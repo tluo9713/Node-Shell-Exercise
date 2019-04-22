@@ -1,0 +1,25 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "dependencies": {
+    "nodemon": "^1.18.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon bash.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tluo9713/Node-Shell-Exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tluo9713/Node-Shell-Exercise/issues"
+  },
+  "homepage": "https://github.com/tluo9713/Node-Shell-Exercise#readme"
+}
